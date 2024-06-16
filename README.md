@@ -1,1 +1,3 @@
-this file contains;
+this file contains:
+linux directories,files and users
+
